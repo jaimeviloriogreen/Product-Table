@@ -3,17 +3,17 @@
 class Product{
     static menu = {
         p1:{
-            name:'Jugo de Naranja',
+            name:'Orange Juice',
             price:100, 
             quantity:0
         }, 
         p2:{
-            name:'Sandwich de Queso',
+            name:'Cheese Sandwich',
             price:50, 
             quantity:0
         }, 
         p3:{
-            name:'Hamburger de Pollo',
+            name:'Chiken Burger',
             price:75, 
             quantity:0
         }
